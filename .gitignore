@@ -152,8 +152,9 @@ src/ocda-fas
 lsf.*
 ._*
 
-#3RSCAN
-Data/T3-3RScan(Scans-Script)/
-Data/T3-3RScan(script)/*
+#
+Sessions/Data/".DS_Store"
+Sessions/Data/5/Data/graph_actors.gml
+
 
 # End
