@@ -153,7 +153,7 @@ lsf.*
 ._*
 
 #
-Sessions/Data/".DS_Store"
+Sessions/Data/.DS_Store
 Sessions/Data/5/Data/graph_actors.gml
 
 
